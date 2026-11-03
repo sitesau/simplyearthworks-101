@@ -1,0 +1,22 @@
+{
+  "wheel_id": 714,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-101",
+  "project": "earthmoving-services-adelaide-how-to-choose-ed76fd3fab5b65fd9f8",
+  "parent_t1_ref": "simplyearthworks-150",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide how to choose",
+  "intended_url": "http://earthmoving-services-adelaide-how-to-choose-ed76fd3fab5b65fd9f8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "707a4d1f944b7448",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-a1ea655284c28ca771b8f59ac3db66b0b/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
